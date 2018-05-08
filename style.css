@@ -21,7 +21,7 @@ li a {
 	height:100%;
 	text-align: center;
 	width: 100%;
-	background-image: url("/kiauna home.jpg");
+	background-image: url("./kiauna home.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -63,7 +63,7 @@ li {
 	height:100%;
 	text-align: center;
 	width: 100%;
-	background-image: url("/about me.jpg");
+	background-image: url("./about me.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -113,7 +113,7 @@ li {
 	height:100%;
 	text-align: center;
 	width: 100%;
-	background-image: url("/current projects background.jpg");
+	background-image: url("./current projects background.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -147,7 +147,7 @@ li {
    	height:100%;
 	text-align: center;
 	width: 100%;
-	background-image: url("/contact me background.jpg");
+	background-image: url("./contact me background.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
